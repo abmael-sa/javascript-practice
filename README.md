@@ -1,2 +1,2 @@
-# javascript-practice
+# JavaScript coding practice.
 JavaScript mini-projects/practice.
