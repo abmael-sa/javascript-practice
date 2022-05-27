@@ -5,7 +5,8 @@ This is a exercise given by Addison Global.
 
 ## Screens
 **Mobile**
-![](./data/iimages/mobilescreen.png)
+![](./data/images/mobilescreen.png)
+
 **Desktop**
 ![](./data/images/desktopscreen.png)
 
