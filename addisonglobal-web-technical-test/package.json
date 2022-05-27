@@ -1,0 +1,23 @@
+{
+  "name": "addisonglobal-web-technical-assesment",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "source": "public/index.html",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.5.0",
+    "process": "^0.11.10"
+  }
+}
