@@ -1,7 +1,8 @@
 
 ## Introduction
 This is a exercise given by Addison Global.
-**Repository**: [Addison Global Web Technical Test](https://github.com/addisonglobal/web-technical-test)
+
+For more context on the exercise itself take a look on the repository: [Addison Global Web Technical Test](https://github.com/addisonglobal/web-technical-test).
 
 ## Screens
 ### Mobile
