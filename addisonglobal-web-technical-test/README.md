@@ -4,10 +4,10 @@ This is a exercise given by Addison Global.
 **Repository**: [Addison Global Web Technical Test](https://github.com/addisonglobal/web-technical-test)
 
 ## Screens
-**Mobile**
+### Mobile
 ![](./data/images/mobilescreen.png)
 
-**Desktop**
+### Desktop 
 ![](./data/images/desktopscreen.png)
 
 ## Technologies
