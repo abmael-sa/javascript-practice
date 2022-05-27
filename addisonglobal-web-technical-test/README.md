@@ -5,9 +5,9 @@ This is a exercise given by Addison Global.
 
 ## Screens
 **Mobile**
-![](mobilescreen.png)
+![](./data/iimages/mobilescreen.png)
 **Desktop**
-![](desktopscreen.png)
+![](./data/images/desktopscreen.png)
 
 ## Technologies
 Project is created with:
