@@ -6,9 +6,34 @@
     <title>Chaordic</title>
   </head>
   <body>
-    <section>
-      <div root class="tools"></div>
+    <section toolbar>
+      <div class="container">
+        <div class="add-new-tool">
+            <form id="add">
+              <div>
+                <label for="title">Tool Name</label>
+                <input id="title" type="text" required>
+              </div>
+              <div>
+                <label for="link">Tool Link</label>
+                <input id="link" type="url" required>
+              </div>
+              <div>
+                <label for="description">Tool Description</label>
+                <input id="description" type="text" required>
+              </div>
+              <div>
+                <label for="tags">Tags</label>
+                <input id="tags" type="text" required>
+              </div>
+              <button submit-new-tool type="submit">Add Tool</button>
+            </form>
+        </div>
+      </div>
     </section>
+    <main>
+      <div root class="tools"></div>
+    </main>
     <script type="module" src="./src/scripts/index.js"></script>
   </body>
 </html>
